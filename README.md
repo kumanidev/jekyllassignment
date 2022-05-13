@@ -1,2 +1,0 @@
-# jekyllassignment
-Jekyll Assignment
