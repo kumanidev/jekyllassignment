@@ -1,8 +1,8 @@
 ---
-layout: home
-title: home page 
+layout: HOME
+title: General Info
 description: this is the about me page
-order: 1
+order: 2
 ---
 
 ## About Me
