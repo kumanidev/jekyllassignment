@@ -1,5 +1,5 @@
 ---
-layout: HOME
+layout: home
 title: General Info
 description: this is the about me page
 order: 2
