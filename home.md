@@ -2,7 +2,7 @@
 layout: home
 title: home page 
 description: this is the about me page
-order:1
+order: 1
 ---
 
 ## About Me
@@ -13,7 +13,7 @@ Hello! My name is Kumani Riley. I am a member of the Foote Fellow Honors Program
 
 Technical Proficiencies: Java, MS Office Suite (Excel, PowerPoint, Access, Outlook, Word, Teams), C#, Unity, GitHub, Notion, Figma, ArcGIS Pro, Visual Studio Code, Bootstrap, HTML/CSS, JavaScript Basics, SQL Basics, UNIX/Linux
 
-See more details here about me[Basic writing and formatting syntax](https://www.linkedin.com/in/kumaniriley/).
+See more details here about me[LinkedIn](https://www.linkedin.com/in/kumaniriley/).
 
 ### Career Goals
 
